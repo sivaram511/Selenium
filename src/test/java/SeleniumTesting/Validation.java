@@ -47,7 +47,7 @@ public class Validation extends Base {
 		Thread.sleep(2000);
 		rlogin.onWardDate().click();
 		Thread.sleep(1000);
-		rlogin.enterDate().click();
+		//rlogin.enterDate().click();
 		Thread.sleep(1000);
 		rlogin.Search().click();
 		Thread.sleep(10000);
